@@ -5,9 +5,8 @@ export const data = [
       price: 29.99,
       instock: 100,
       description:"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores, error.",
-      img:
-      "/img/t1.png",
-        category:1
+      img: "https://res.cloudinary.com/bodegas-del-sur/image/upload/v1631316118/BodegasDelSur/01_1623090927.jpg",
+      category:1
     },
     {
         id: 1,
@@ -16,9 +15,9 @@ export const data = [
         instock: 43,
         description:
         "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores, error.",
-        img:
-        "img/t1.png"
-      ,
+        img: "https://res.cloudinary.com/bodegas-del-sur/image/upload/v1631316118/BodegasDelSur/01_1623090927.jpg",
+
+      
         category:2
     },
     {
@@ -37,7 +36,8 @@ export const data = [
         instock: 5,
         description:
         "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores, error.",
-        img:"./img/t1.png"  ,  
+        img: "https://res.cloudinary.com/bodegas-del-sur/image/upload/v1631316118/BodegasDelSur/01_1623090927.jpg",
+
             category:3
     },
     {
