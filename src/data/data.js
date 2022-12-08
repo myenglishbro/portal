@@ -6,8 +6,7 @@ export const data = [
       instock: 100,
       description:"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores, error.",
       img:
-      "https://res.cloudinary.com/bodegas-del-sur/image/upload/v1631316118/BodegasDelSur/01_1623090927.jpg"
-      ,
+      "/img/t1.png",
         category:1
     },
     {
@@ -18,7 +17,7 @@ export const data = [
         description:
         "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores, error.",
         img:
-        "https://res.cloudinary.com/bodegas-del-sur/image/upload/v1631316118/BodegasDelSur/01_1623090927.jpg"
+        "img/t1.png"
       ,
         category:2
     },
@@ -38,8 +37,8 @@ export const data = [
         instock: 5,
         description:
         "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores, error.",
-        img: "https://res.cloudinary.com/bodegas-del-sur/image/upload/v1631316118/BodegasDelSur/01_1623090927.jpg",
-        category:3
+        img:"./img/t1.png"  ,  
+            category:3
     },
     {
          id: 4,
