@@ -21,13 +21,16 @@ function NavBar(){
                                 <div className="collapse navbar-collapse " id="navbarText">
                                   <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                                     <li class="nav-item">
-                                   <Link to="/category/1"><a class="nav-link active" aria-current="page" href="....">Hombres</a></Link>   
+                                   <Link to="/category/1"><a class="nav-link active" aria-current="page" href="....">Bomber Jackets</a></Link>   
                                     </li>
                                     <li class="nav-item">
-                                    <Link to="/category/2"><a class="nav-link" href="..">Mujeres</a></Link>
+                                    <Link to="/category/2"><a class="nav-link" href="..">Denim Jackets</a></Link>
                                     </li>
                                     <li class="nav-item">
-                                    <Link to="/category/3"> <a class="nav-link" href="..">Niños</a> </Link>
+                                    <Link to="/category/3"> <a class="nav-link" href="..">Hoodies</a> </Link>
+                                    </li>
+                                    <li class="nav-item">
+                                    <Link to="/category/4"> <a class="nav-link" href="..">Jerseys</a> </Link>
                                     </li>
                                   </ul>
                                   <CartWidget/>
