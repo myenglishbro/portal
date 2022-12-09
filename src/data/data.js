@@ -6,7 +6,7 @@ export const data = [
       instock: 100,
       description:"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores, error.",
       img: "https://res.cloudinary.com/bodegas-del-sur/image/upload/v1631316118/BodegasDelSur/01_1623090927.jpg",
-      category:1
+      categoryId:1
     },
     {
         id: 1,
@@ -18,7 +18,7 @@ export const data = [
         img: "https://res.cloudinary.com/bodegas-del-sur/image/upload/v1631316118/BodegasDelSur/01_1623090927.jpg",
 
       
-        category:2
+        categoryId:2
     },
     {
         id: 2,
@@ -27,7 +27,7 @@ export const data = [
         instock: 10,
         description:"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores, error.",
         img: "https://res.cloudinary.com/bodegas-del-sur/image/upload/v1631316118/BodegasDelSur/01_1623090927.jpg",
-        category:1
+        categoryId:1
     },
     {
         id: 3,
@@ -38,7 +38,7 @@ export const data = [
         "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores, error.",
         img: "https://res.cloudinary.com/bodegas-del-sur/image/upload/v1631316118/BodegasDelSur/01_1623090927.jpg",
 
-            category:3
+        categoryId:3
     },
     {
          id: 4,
@@ -48,7 +48,7 @@ export const data = [
         description:
         "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores, error.",
         img: "https://res.cloudinary.com/bodegas-del-sur/image/upload/v1631316118/BodegasDelSur/01_1623090927.jpg",
-        category:1
+        categoryId:1
     },
     {
          id: 5,
@@ -58,7 +58,48 @@ export const data = [
       description:
         "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores, error.",
         img: "https://res.cloudinary.com/bodegas-del-sur/image/upload/v1631316118/BodegasDelSur/01_1623090927.jpg",
-         category:2
+        categoryId:2
+    }
+    ,
+    {
+         id: 6,
+       name: "T-shirt 6",
+       price: 39.99,
+      instock: 40,
+      description:
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores, error.",
+        img: "https://res.cloudinary.com/bodegas-del-sur/image/upload/v1631316118/BodegasDelSur/01_1623090927.jpg",
+        categoryId:2
+    },
+    {
+         id: 7,
+       name: "T-shirt 6",
+       price: 39.99,
+      instock: 40,
+      description:
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores, error.",
+        img: "https://res.cloudinary.com/bodegas-del-sur/image/upload/v1631316118/BodegasDelSur/01_1623090927.jpg",
+        categoryId:2
+    },
+    {
+         id: 8,
+       name: "T-shirt 6",
+       price: 39.99,
+      instock: 40,
+      description:
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores, error.",
+        img: "https://res.cloudinary.com/bodegas-del-sur/image/upload/v1631316118/BodegasDelSur/01_1623090927.jpg",
+        categoryId:3
+    },
+    {
+         id:9,
+       name: "T-shirt 6",
+       price: 39.99,
+      instock: 40,
+      description:
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores, error.",
+        img: "https://res.cloudinary.com/bodegas-del-sur/image/upload/v1631316118/BodegasDelSur/01_1623090927.jpg",
+        categoryId:3
     }
   ]
   

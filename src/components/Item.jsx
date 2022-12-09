@@ -4,11 +4,11 @@ const Item=(props)=>{
  return(
     
         <div class="card">
-            <img src={props.img} class="card-img-top" alt="asd"/>
+            <img src={props.img} class="card-img-top product-image" alt="asd"/>
             <div class="card-body">
-                <h5 class="card-title">{props.name}</h5>
-                <p class="card-text">{props.description}</p>
-                <a href=".." class="btn btn-primary">Comprar</a>
+                <h3 class="card-title">{props.name}</h3>
+                <p class=" product-description">{props.description}</p>
+                <a href=".." class="btn product-button">Comprar</a>
             </div>
  </div>
    
