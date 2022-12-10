@@ -9,7 +9,7 @@ function NavBar(){
    
     return(
         <div className="container-fluid px-0 py-0">
-              <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+              <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
                         <div class="container-fluid">
                               <a class="navbar-brand" href="...">
                             <Link to="/"> <img src={log} alt="Logo" width="60" height="50" class="d-inline-block align-text-top0"/></Link>    
